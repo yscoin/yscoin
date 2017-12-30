@@ -1,0 +1,14 @@
+﻿生成启动时间为 2016-03-12 03:34:19。
+     1>项目“C:\project\bitcoin-0.12.0\src\bitcoin-cli\bitcoin-cli.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\bitcoin-cli.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "bitcoin-cli.cpp"
+         bitcoin-cli.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\project\bitcoin-0.12.0\Bitcoin.sln\Debug\bitcoin-cli.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\project\bitcoin-0.12.0\Bitcoin.sln\Debug\bitcoin-cli.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\project\bitcoin-0.12.0\Bitcoin.sln\Debug\bitcoin-cli.lib" /MACHINE:X86 "Debug\bitcoin-cli.obj"
+         Debug\stdafx.obj
+         bitcoin-cli.vcxproj -> C:\project\bitcoin-0.12.0\Bitcoin.sln\Debug\bitcoin-cli.exe
+     1>已完成生成项目“C:\project\bitcoin-0.12.0\src\bitcoin-cli\bitcoin-cli.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.67
